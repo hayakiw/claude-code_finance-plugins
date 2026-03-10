@@ -1,0 +1,19 @@
+{
+  "name": "finance-plugins",
+  "description": "金融・投資分析プラグインマーケットプレイス",
+  "owner": {
+    "name": "AI Lab"
+  },
+  "plugins": [
+    {
+      "name": "stock-screener",
+      "description": "中長期投資向けファンダメンタルズ分析で優良銘柄をスクリーニング。収益性・安全性・成長性・割安度の4軸で企業の質と割安度を客観評価します。",
+      "version": "1.1.0",
+      "author": {
+        "name": "AI Lab"
+      },
+      "source": "./plugins/stock-screener",
+      "category": "finance"
+    }
+  ]
+}

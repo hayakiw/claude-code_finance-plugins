@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "financial-data": {
+      "command": "python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp_server/main.py"],
+      "description": "Yahoo Financeから財務データを取得するMCPサーバー。get_stock_fundamentals / screen_stocks / get_price_history を提供します。"
+    }
+  }
+}
