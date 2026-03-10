@@ -16,7 +16,7 @@ pip install mcp yfinance
 ### 2. マーケットプレイスの登録
 
 ```
-/plugin marketplace add ./finance-plugins
+/plugin marketplace add hayakiw/claude-code_finance-plugins
 ```
 
 ### 3. プラグインのインストール
@@ -33,11 +33,6 @@ pip install mcp yfinance
 /stock-screener:screen 日経225
 /stock-screener:compare 7203.T vs 6758.T vs 8035.T
 ```
-
-> GitHub にリポジトリをプッシュ済みの場合は、リモートから直接登録できます：
-> ```
-> /plugin marketplace add hayakiw/claude-code_finance-plugins
-> ```
 
 ---
 
