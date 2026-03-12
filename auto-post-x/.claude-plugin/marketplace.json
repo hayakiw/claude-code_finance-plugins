@@ -1,0 +1,24 @@
+{
+  "name": "auto-post-x",
+  "owner": {
+    "name": "HAYAKI",
+    "email": "passarea.it@gmail.com"
+  },
+  "metadata": {
+    "description": "AI最新ニュースを自動収集し、【速報】形式でX（Twitter）に自動投稿するプラグイン",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "auto-post-x",
+      "source": "./plugins/auto-post-x",
+      "description": "AI最新ニュースの検索・収集から【速報】形式の投稿文作成、Chromeブラウザ経由でのX自動投稿までを一連の流れで実行するプラグイン。Claude Code、Codex、Gemini、AIエージェント構築、AI業務活用の情報に特化。",
+      "version": "1.0.0",
+      "author": {
+        "name": "HAYAKI"
+      },
+      "category": "social-media",
+      "keywords": ["X", "Twitter", "auto-post", "AI", "news", "Claude Code", "Codex", "Gemini"]
+    }
+  ]
+}
