@@ -1,0 +1,9 @@
+{
+  "name": "dx-advisor-from-hp",
+  "description": "企業のホームページを分析し、DX/AI導入で効果が出そうな業務を特定しレポートを作成します。情報収集・分析・レポート作成を専門エージェントチームで実行します。",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Lab"
+  },
+  "keywords": ["dx", "ai", "digital-transformation", "consulting", "business-analysis", "automation"]
+}
